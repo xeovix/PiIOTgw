@@ -8,9 +8,9 @@ An embedded HMI offering the status viewer for each IO pins. Enhanced automation
 Support MQTT, OPC UA, MOD Bus and IIoT Cloud connectors, communicate with most any brand of PLC or other equipment, and securely transmit data to wherever it is required. Enhanced automation capabilities include built-in data logging, virtual HMI and an advanced web server. For the experianced users, the PiIOTgw can be treat as a programmable controllor or a slave control module which connected by a host PC to manipulate to, with the on-board I/O, you can enable direct control by PC.
 
 
-1~2 10/100Base-T(X) Ethernet ports
-One (1) isolated RS-232 serial port
-One (1) isolated RS-485 serial port
+a. 1~2 10/100Base-T(X) Ethernet ports
+b. One (1) isolated RS-232 serial port
+c. One (1) isolated RS-485 serial port
 5 Analog Input Pins.
 5 Digital Input Pins.
 5 Digital Output Pins.
