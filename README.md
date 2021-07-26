@@ -1,8 +1,10 @@
-# PiIOTgw
+# PiPALs-GW
 An Industrial IoT Gateway HAT for Raspberry Pi
 
 Overview
-The PiIOTgw is a series of IIoT Gateway HAT (Hardware Attached on Top) for All Raspberry Pi modules. With the open soure platform, users can add-on any popular communication protocal by their own.
+The PiPALs-GW is a series of IIoT Gateway HAT (Hardware Attached on Top) for All Raspberry Pi modules. Which offers RS232/RS485, Digital IO, Analog Input, WiFi, Ethernet to integrate a Platform for IIOT. 
+User can 
+With the open soure platform, users can add-on any popular communication protocal by their own freely.
 An embedded HMI offering the status viewer for each IO pins. Enhanced automation capabilities include built-in data logging, virtual HMI and an advanced web server. Direct 
 
 Support MQTT, OPC UA, MOD Bus and IIoT Cloud connectors, communicate with most any brand of PLC or other equipment, and securely transmit data to wherever it is required. Enhanced automation capabilities include built-in data logging, virtual HMI and an advanced web server. For the experianced users, the PiIOTgw can be treat as a programmable controllor or a slave control module which connected by a host PC to manipulate to, with the on-board I/O, you can enable direct control by PC.
