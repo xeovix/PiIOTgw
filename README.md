@@ -1,9 +1,11 @@
-# PiPALs-GW
-An Industrial IoT Gateway HAT for Raspberry Pi
+# PiPALs-Workbench (WB)
+A home automatic and industry control platform for Raspberry Pi.
 
 Overview
-The PiPALs-GW is a series of IIoT Gateway HAT (Hardware Attached on Top) for All Raspberry Pi modules. Which offers RS232/RS485, Digital IO, Analog Input, WiFi, Ethernet to integrate a Platform for IIOT. 
-User can 
+The PiPALs-WB is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control. 
+
+According to the purpos and necessity, user can install the different image on SD, then make PiPAL WB to be the different device for home automatic or industry control. such as AOI (Automatic Optical Inspection), PLC (Programmable Logic Controllor), Security/Surveillance system, Gateway and so on.
+
 With the open soure platform, users can add-on any popular communication protocal by their own freely.
 An embedded HMI offering the status viewer for each IO pins. Enhanced automation capabilities include built-in data logging, virtual HMI and an advanced web server. Direct 
 
