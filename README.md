@@ -8,7 +8,7 @@ The PiPAL-WB is a series of HATs (Hardware Attached on Top) for All Raspberry Pi
 
 According to the purpos and necessity, user can install the different image on SD, then make PiPAL WB to be the different device for home automatic or industry control. such as data collector, AOI (Automatic Optical Inspection), PLC (Programmable Logic Controllor), Security/Surveillance system, Gateway and so on.
 
-Install the Gateway image to SD card, an embedded HMI offering the status viewer for each IO pins. Enhanced automation capabilities include built-in data logging, virtual HMI and an advanced web server. Direct
+Install the Gateway image to SD card, an embedded HMI offering the dashboard for each IO pins, and using browser of smart phone to view it. Enhanced automation capabilities include built-in data logging, virtual HMI and an advanced web server. Direct
 
 Support MQTT, OPC UA, MOD Bus and IIoT Cloud connectors, communicate with most any brand of PLC or other equipment, and securely transmit data to wherever it is required. Enhanced automation capabilities include built-in data logging, virtual HMI and an advanced web server.
 
