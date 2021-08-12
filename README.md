@@ -14,7 +14,7 @@ For supporting the different Raspberry Pi Module, PiPAL-CS has two models.
 
 The Model A supports Raspberry Pi 3+ and Raspberry Pi 4/4+. see pic-3, pic-4 and pic-5. Then combined as pic-6.
 
-<img align="left"  src="./pics/IMG_0829.jpg" />
+<img src="./pics/IMG_0829.jpg" />
 
 
 
