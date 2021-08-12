@@ -23,31 +23,22 @@ pic-5: Raspberry Pi 3+
 pic-6: The combined platform of Model A.
 
 
+
+
 The Model B supports Raspberry Pi Zero and Raspberry Pi Computing Module 4. see pic-7, pic-8 and pic-9. Then combined as pic-10.
 
-<img align="left"  src="D:\Raspberry\PiPAL_Project\PiPALs-CS\imgs\tiny\IMG_0832.jpg">
-
-pic-7 : Model B - Power and DIO board
-
-
-
-<img align="left"  src="D:\Raspberry\PiPAL_Project\PiPALs-CS\imgs\tiny\IMG_0833.jpg">
-
+<img src="./pics/IMG_0832.jpg" />
+pic-7 : Model B - Power and DIO board             
+<img src="./pics/IMG_0833.jpg" />
 pic-8: Model B -Bridge and Extend Interface
-
-​																												
-
-<img align="left"  src="D:\Raspberry\PiPAL_Project\PiPALs-CS\imgs\tiny\IMG_0834.jpg">
-
-pic-9: Raspberry Pi Zero
-
-
-
-<img align="left"  src="D:\Raspberry\PiPAL_Project\PiPALs-CS\imgs\tiny\IMG_0838.jpg">
-
+<img src="./pics/IMG_0834.jpg" />
+pic-9: Raspberry Pi Zero         
+<img src="./pics/IMG_0838.jpg" />
 pic-10: The combined platform of Model B.
 
-
+For the Compute Module 4, we offer a new piggyback board. see pic-11
+<img src="./pics/IMG_0863.jpg" />
+pic-11: new piggyback board.           
 
 Tthe PiPAL-Combo has three 5-pin connectors for input and output. And they are 1 set of Analog Input, 1 set of Digital Input and 1 set of Output.
 
