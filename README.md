@@ -16,6 +16,8 @@ The Model A supports Raspberry Pi 3+ and Raspberry Pi 4/4+. see pic-3, pic-4 and
 
 <img align="left"  src="./pics/IMG_0829.jpg">
 
+
+
 pic-3 : Model  A - Power and DIO board
 
 
