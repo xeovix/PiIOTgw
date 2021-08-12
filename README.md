@@ -13,11 +13,7 @@ The hardware is combined by three major boards, the bottom board is called **'Po
 For supporting the different Raspberry Pi Module, PiPAL-CS has two models.
 
 The Model A supports Raspberry Pi 3+ and Raspberry Pi 4/4+. see pic-3, pic-4 and pic-5. Then combined as pic-6.
-
 <img src="./pics/IMG_0829.jpg" />
-
-
-
 pic-3 : Model  A - Power and DIO board
 
 
