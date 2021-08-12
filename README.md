@@ -18,7 +18,7 @@ pic-3 : Model  A - Power and DIO board
 <img src="./pics/IMG_0830.jpg" />
 pic-4: Model A -Bridge and Extend Interface
 <img src="./pics/IMG_0831.jpg" />
-pic-5: Raspberry Pi 3+
+pic-5: Raspberry Pi 3+                       
 <img src="./pics/IMG_0840.jpg" />
 pic-6: The combined platform of Model A.
 
