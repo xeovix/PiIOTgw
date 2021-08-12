@@ -4,13 +4,13 @@ A combo shield of Raspberry Pi for the field of home automatic and industry cont
 
 #### **Overview** 
 
-The **PiPAL COMBOS** is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control.
+The **PiPAL-COMBOS** is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control.
 
-PiPAL COMBOS is a combination system, the simple system architecture is as pic-1. 
+**PiPAL-COMBOS** is a combination system, the simple system architecture is as pic-1. 
 
 The hardware is combined by three major boards, the bottom board is called **'Power and DIO'** board, the middle board is called **'Bridge and Extend Interface'** board, then the upper board is Raspberry Pi module. (as pic-2)
 
-For supporting the different Raspberry Pi Module, PiPAL-CS has two models.
+For supporting the different Raspberry Pi Module, **PiPAL-COMBOS** has two models.
 
 The Model A supports Raspberry Pi 3+ and Raspberry Pi 4/4+. see pic-3, pic-4 and pic-5. Then combined as pic-6.
 <img src="./pics/IMG_0829.jpg" />
@@ -35,17 +35,17 @@ For the Compute Module 4, we offer a new piggyback board. see pic-11.
 <img src="./pics/IMG_0863.jpg" />
 pic-11: new piggyback board.           
 
-Tthe PiPAL-Combo has three 5-pin connectors for input and output. And they are 1 set of Analog Input, 1 set of Digital Input and 1 set of Output.
+The **PiPAL-COMBOS** has three 5-pin connectors for input and output. And they are 1 set of Analog Input, 1 set of Digital Input and 1 set of Output.
 
 Each Analog input is a 10 bits ADC, means the resolution is 1024 grades. Since the Analog Volt Reference is connected to the DC Power source. The PSU (Power Supply Unit) is 12 Volt, so each grade is about 11.718 mV.
 
-The Digital Inputs are all isolated, so each one of them can be connected with the sensor which driven by PSU directly. The 1st channel is an interrupt input. It can be used for the ES (Emergency Switch) input. Or, using it to be an Run-Time counter as the speed counter, it is easily to be initiated from the API of PiPAL-Combo's library.
+The Digital Inputs are all isolated, so each one of them can be connected with the sensor which driven by PSU directly. The 1st channel is an interrupt input. It can be used for the ES (Emergency Switch) input. Or, using it to be an Run-Time counter as the speed counter, it is easily to be initiated from the API of **PiPAL-COMBOS** library.
 
 The Digital Outputs are all open collector. The max output voltage can be 50V. Users can connect the Relay directly with the PSU's power source. The channel 1, channel 3 and channel 4 are available to be set PWM mode, so user can use the API's function to drive the stepping motor or LED. The official firmware of the controller on IO board is multi-tasking, it means when the output pin has driven the motor, the other IO channels are available being read and wrote concurrently.    
 
-Actually, the IO controller is Atmel Mega328, and the circuit hardware was designed to compatible with the Arduino UNO, so the user can use the Arduino IDE to make program by his own. Without any Raspberry Pi Module, the PiPAL-CS can be worked alone as an Arduino UNO, and freely using the OpenPLC project to work as a PLC. Then when it collaborates with Raspberry Pi Module, the Mega328 can be programmed as an I2C slave to work with Raspberry Pi. 
+Actually, the IO controller is Atmel Mega328, and the circuit hardware was designed to compatible with the Arduino UNO, so the user can use the Arduino IDE to make program by his own. Without any Raspberry Pi Module, the **PiPAL-COMBOS** can be worked alone as an Arduino UNO, and freely using the OpenPLC project to work as a PLC. Then when it collaborates with Raspberry Pi Module, the Mega328 can be programmed as an I2C slave to work with Raspberry Pi. 
 
-According to the purpose and necessity, user can install the different image on SD, then make PiPAL-CS to be the different device for home automatic or industry control. The complete applications and drivers what we'd done such as Data Collector, AOI (Automatic Optical Inspection), Bar-code Scanner, Motor Controller, PLC, Security/Surveillance system, Gateway and so on. The user can download from here freely.
+According to the purpose and necessity, user can install the different image on SD, then make **PiPAL-COMBOS** to be the different device for home automatic or industry control. The complete applications and drivers what we'd done such as Data Collector, AOI (Automatic Optical Inspection), Bar-code Scanner, Motor Controller, PLC, Security/Surveillance system, Gateway and so on. The user can download from here freely.
 
 
 
@@ -53,7 +53,7 @@ For the IoT and IIoT, we just work done the software for Gateway system. It incl
 
 
 
-Install the AOI image to SD card, the PiPAL-CS can be worked as a stand-alone Vision Inspecting System, programmable controller or a slave control module which connected by a host PC to manipulate to. Beyond the on-board I/O and RS485, it is also available to direct controlled by PLC.
+Install the AOI image to SD card, the **PiPAL-COMBOS** can be worked as a stand-alone Vision Inspecting System, programmable controller or a slave control module which connected by a host PC to manipulate to. Beyond the on-board I/O and RS485, it is also available to direct controlled by PLC.
 
 Images of SD card for specified Raspberry Pi module
 
@@ -82,9 +82,9 @@ Images of SD card for specified Raspberry Pi module
 
 #### **Extend Module**
 
-The Extend module is designed to support PiPAL-Combo when the local IO is insufficient.
+The Extend module is designed to support **PiPAL-COMBOS** when the local IO is insufficient.
 
-Easy connect the extend wire by the 10 pins IDC connector. The maximum length of extend wire is 10 meters, it should be enough for the general environment of home automatic and industry control. For a better communication, the twist wiring is recommended.
+Easilly connect the extend wire by the 10 pins IDC connector. The maximum length of extend wire is 10 meters, it should be enough for the general environment of home automatic and industry control. For a better communication, the twist and shielding wiring is recommended.
 
 
 
