@@ -2,7 +2,7 @@
 
 A combo shield of Raspberry Pi for the field of home automatic and industry control.
 
-#### **Overview** 
+### **Overview** 
 
 The **PiPAL-COMBOS** is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control.
 
@@ -66,7 +66,7 @@ Images of SD card for specified Raspberry Pi module
 7. I/O controller.
 8. 
 
-####  **General Specifications**
+###  **General Specifications**
 
 1. 1~2 10/100Base-T(X) Ethernet ports (Model B)
 2. One (1) isolated RS-232 serial port  (Model A, B)
@@ -80,7 +80,7 @@ Images of SD card for specified Raspberry Pi module
 
 
 
-#### **Extend Module**
+### **Extend Module**
 
 The Extend module is designed to support **PiPAL-COMBOS** when the local IO is insufficient.
 
