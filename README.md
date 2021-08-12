@@ -34,9 +34,9 @@ pic-8: Model B -Bridge and Extend Interface
 <img src="./pics/IMG_0834.jpg" />
 pic-9: Raspberry Pi Zero         
 <img src="./pics/IMG_0838.jpg" />
-pic-10: The combined platform of Model B.
+pic-10: The combined platform of Model B.                                
 
-For the Compute Module 4, we offer a new piggyback board. see pic-11
+For the Compute Module 4, we offer a new piggyback board. see pic-11.      
 <img src="./pics/IMG_0863.jpg" />
 pic-11: new piggyback board.           
 
