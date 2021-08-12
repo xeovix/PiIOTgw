@@ -15,23 +15,12 @@ For supporting the different Raspberry Pi Module, PiPAL-CS has two models.
 The Model A supports Raspberry Pi 3+ and Raspberry Pi 4/4+. see pic-3, pic-4 and pic-5. Then combined as pic-6.
 <img src="./pics/IMG_0829.jpg" />
 pic-3 : Model  A - Power and DIO board
-<img src="./pics/IMG_0830.jpg">
+<img src="./pics/IMG_0830.jpg" />
 pic-4: Model A -Bridge and Extend Interface
-
-
-
-<img align="left"  src="D:\Raspberry\PiPAL_Project\PiPALs-CS\imgs\tiny\IMG_0831.jpg">
-
+<img src="./pics/IMG_0831.jpg" />
 pic-5: Raspberry Pi 3+
-
-
-
-<img align="left"  src="D:\Raspberry\PiPAL_Project\PiPALs-CS\imgs\tiny\IMG_0840.jpg">
-
+<img src="./pics/IMG_0840.jpg" />
 pic-6: The combined platform of Model A.
-
-
-
 
 
 The Model B supports Raspberry Pi Zero and Raspberry Pi Computing Module 4. see pic-7, pic-8 and pic-9. Then combined as pic-10.
