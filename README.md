@@ -4,9 +4,9 @@ A combo shield of Raspberry Pi for the field of home automatic and industry cont
 
 #### **Overview** 
 
-The PiPAL-CS is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control.
+The **PiPAL COMBOS** is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control.
 
-PiPAL-CS is a combination system, the simple system architecture is as pic-1. 
+PiPAL COMBOS is a combination system, the simple system architecture is as pic-1. 
 
 The hardware is combined by three major boards, the bottom board is called **'Power and DIO'** board, the middle board is called **'Bridge and Extend Interface'** board, then the upper board is Raspberry Pi module. (as pic-2)
 
