@@ -35,6 +35,10 @@ For the Compute Module 4, we offer a new piggyback board. see pic-11.
 <img src="./pics/IMG_0863.jpg" />
 pic-11: new piggyback board.           
 
+### **Compact Casing**
+The final assembly of **PiPAL-COMBOS** is enclosing the PCB into the aluminum shell. The followed pictures are introducing the procedure. See pic-12 to pic-15.
+
+### **Input and Output channels**
 The **PiPAL-COMBOS** has three 5-pin connectors for input and output. And they are 1 set of Analog Input, 1 set of Digital Input and 1 set of Output.
 
 Each Analog input is a 10 bits ADC, means the resolution is 1024 grades. Since the Analog Volt Reference is connected to the DC Power source. The PSU (Power Supply Unit) is 12 Volt, so each grade is about 11.718 mV.
@@ -44,6 +48,8 @@ The Digital Inputs are all isolated, so each one of them can be connected with t
 The Digital Outputs are all open collector. The max output voltage can be 50V. Users can connect the Relay directly with the PSU's power source. The channel 1, channel 3 and channel 4 are available to be set PWM mode, so user can use the API's function to drive the stepping motor or LED. The official firmware of the controller on IO board is multi-tasking, it means when the output pin has driven the motor, the other IO channels are available being read and wrote concurrently.    
 
 Actually, the IO controller is Atmel Mega328, and the circuit hardware was designed to compatible with the Arduino UNO, so the user can use the Arduino IDE to make program by his own. Without any Raspberry Pi Module, the **PiPAL-COMBOS** can be worked alone as an Arduino UNO, and freely using the OpenPLC project to work as a PLC. Then when it collaborates with Raspberry Pi Module, the Mega328 can be programmed as an I2C slave to work with Raspberry Pi. 
+
+### **Communication**
 
 According to the purpose and necessity, user can install the different image on SD, then make **PiPAL-COMBOS** to be the different device for home automatic or industry control. The complete applications and drivers what we'd done such as Data Collector, AOI (Automatic Optical Inspection), Bar-code Scanner, Motor Controller, PLC, Security/Surveillance system, Gateway and so on. The user can download from here freely.
 
