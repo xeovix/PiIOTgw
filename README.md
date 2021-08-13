@@ -25,7 +25,8 @@ pic-6: The combined platform of Model A.
 
 
 
-The Model B supports Raspberry Pi Zero and Raspberry Pi Computing Module 4. see pic-7, pic-8 and pic-9. Then combined as pic-10.
+The Model B supports Raspberry Pi Zero and Raspberry Pi Computing Module 4. see pic-7, pic-8 and pic-9. 
+Then combined as pic-10.
 <img src="./pics/IMG_0832.jpg" />pic-7 : Model B - Power and DIO board             
 <img src="./pics/IMG_0833.jpg" />pic-8: Model B -Bridge and Extend Interface
 <img src="./pics/IMG_0834.jpg" />pic-9: Raspberry Pi Zero         
