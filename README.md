@@ -2,7 +2,7 @@
 
 An **"ALL IN ONE"** combo shield of Raspberry Pi for the field of home automatic and industry control.
 
-Download and Program the different image to SD Card, then make **PiPAL COMBOS** to be a Gateway, Production line Dashboard, PLC, Security System, AOI (Automatic Optical Inspection, Machine Vision), Data Collector, CNC Controller and so on in just 10 minutes.
+Download and Program the specific image to SD Card, then make **PiPAL COMBOS** to be an IIoT Gateway, Production line Dashboard, PLC, Security System, AOI (Automatic Optical Inspection, Machine Vision), Data Collector, CNC Controller and so on in just 10 minutes.
 
 ### **Overview** 
 
