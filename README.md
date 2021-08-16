@@ -2,7 +2,7 @@
 
 An **[ALL IN ONE]** combo shield of Raspberry Pi for the field of home automatic and industry control.
 
-Download and Program the different image to SD Card, then make **PiPAL COMBOS** to be a Gateway, Production line Dashboard, PLC, AOI (Automatic Optical Inspection, Machine Vision), Data Collector, CNC Controllor and so on in just 10 minutes.
+Download and Program the different image to SD Card, then make **PiPAL COMBOS** to be a Gateway, Production line Dashboard, PLC, Security System, AOI (Automatic Optical Inspection, Machine Vision), Data Collector, CNC Controllor and so on in just 10 minutes.
 
 ### **Overview** 
 
@@ -87,11 +87,12 @@ Images of SD card for specified Raspberry Pi module
 1. Vision system - Image Pattern Searching AOI system. (only support Model C and needs register on line for vision library )
 2. Vision system - Image Pattern Matching AOI system. (only support Model C and needs register on line for vision library)
 3. Security system - Face recognition.
-4. Gateway system.
-5. Data collector.
-6. Motor controller.
-7. I/O controller.
-8. 
+5. Gateway system.
+6. Data collector.
+7. Motor controller.
+8. I/O controller.
+9. 3 Axis CNC controllor (needs Extend Module)
+
 
 ###  **General Specifications**
 
