@@ -1,6 +1,7 @@
 # PiPAL COMBOS (Combo Shield)
 
-A combo shield of Raspberry Pi for the field of home automatic and industry control.
+An **[ALL IN ONE]** combo shield of Raspberry Pi for the field of home automatic and industry control.
+Download and Program the different image to SD Card, then make **PiPAL COMBOS** to be a Gateway, Production line Dashboard, PLC, AOI (Automatic Optical Inspection, Machine Vision), Data Collector, CNC Controllor and so on in just 10 minutes.
 
 ### **Overview** 
 
