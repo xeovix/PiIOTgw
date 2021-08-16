@@ -51,12 +51,12 @@ The final assembly of **PiPAL-COMBOS** is enclosing the PCB into the aluminum sh
 <img src="./pics/IMG_0878.jpg" />pic-15 : Place cover.
 
 ### **Interface and Connectors**
-**Front side**
+**Front side** --
 The front side of **PiPAL-COMBOS** is the user's interface, there are USB, RJ485 and a IDC (Insulation-displacement connector). see pic-16
 
 <img src="./pics/IMG_0892s.jpg" /> pic16 : front side
 
-**Reverse side**
+**Reverse side** --
 The reverse side of **PiPAL-COMBOS** is the device's interface, there are Digital Input, Analog Input, Multi-Function Output and RS485 connectors. see pic-17
 
 <img src="./pics/IMG_0891s.jpg" /> pic17 : reverse side
