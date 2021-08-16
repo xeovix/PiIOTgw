@@ -60,7 +60,7 @@ The reverse side of **PiPAL-COMBOS** is the device's interface, there are Digita
 <img src="./pics/IMG_0891s.jpg" /> pic17 : reverse side
 
 ### **Input and Output channels**
-The **PiPAL-COMBOS** has three 5-pin connectors for input and output. And they are 1 set of Analog Input, 1 set of Digital Input and 1 set of Multi-Function Output.
+The **PiPAL-COMBOS** has three sets of 5-pin connectors for input and output. And they are one set of Analog Input, one set of Digital Input and one set of Multi-Function Output.
 
 Each Analog input is a 10 bits ADC, means the resolution is 1024 grades. Since the Analog Volt Reference is connected to the DC Power source. The PSU (Power Supply Unit) is 12 Volt, so each grade is about 11.718 mV.
 
