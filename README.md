@@ -57,7 +57,7 @@ The front side of **PiPAL-COMBOS** is the user's interface, there are USB, RJ485
 <img src="./pics/IMG_0892s.jpg" /> pic16 : front side
 
 **Reverse side**
-The reverse side of **PiPAL-COMBOS** is the device's interface, there are Digital Input, Analog Input, Output and RS485 connectors. see pic-17
+The reverse side of **PiPAL-COMBOS** is the device's interface, there are Digital Input, Analog Input, Multi-Function Output and RS485 connectors. see pic-17
 
 <img src="./pics/IMG_0891s.jpg" /> pic17 : reverse side
 
