@@ -6,11 +6,9 @@ Download and Program the specific image to SD Card, then make **PiPAL COMBOS** t
 
 ### **Overview** 
 
-The **PiPAL-COMBOS** is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control.
+**PiPAL-COMBOS** is a series of HATs (Hardware Attached on Top) for All Raspberry Pi modules, which offers RS232/RS485, Digital IO, Analog Input, USB, Ethernet to integrate a Platform for home automatic and industry control.
 
-**PiPAL-COMBOS** is a combination system, the simple system architecture is as pic-1. 
-
-The hardware is combined by three major boards, the bottom board is called **'Power and DIO'** board, the middle board is called **'Bridge and Extend Interface'** board, then the upper board is Raspberry Pi module. (as pic-2)
+**PiPAL-COMBOS** is a combination system, its hardware is combined by three major boards, the bottom board is called **'Power and DIO'** board, the middle board is called **'Bridge and Extend Interface'** board, then the upper board is Raspberry Pi module. (as pic-1 and pic-2)
 
 For supporting the different Raspberry Pi Module, **PiPAL-COMBOS** has two models.
 
