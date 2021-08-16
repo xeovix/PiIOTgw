@@ -38,6 +38,8 @@ pic-11: new piggyback board.
 
 ### **Compact Casing**
 The final assembly of **PiPAL-COMBOS** is enclosing the PCB into the aluminum shell. The followed pictures are introducing the procedure. See pic-12 to pic-15.
+<img src="./pics/IMG_0882.jpg" />pic-12 : Assemble all PCBs
+<img src="./pics/IMG_0883.jpg" />pic-13 : Insert to the case by the track of bottom PCB.
 
 ### **Input and Output channels**
 The **PiPAL-COMBOS** has three 5-pin connectors for input and output. And they are 1 set of Analog Input, 1 set of Digital Input and 1 set of Output.
