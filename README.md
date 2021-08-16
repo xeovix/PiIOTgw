@@ -66,18 +66,18 @@ The **PiPAL-COMBOS** has three 5-pin connectors for input and output. And they a
 
 Each Analog input is a 10 bits ADC, means the resolution is 1024 grades. Since the Analog Volt Reference is connected to the DC Power source. The PSU (Power Supply Unit) is 12 Volt, so each grade is about 11.718 mV.
 
-The Digital Inputs are all isolated, so each one of them can be connected with the sensor which driven by PSU directly. The 1st channl is an interrupt input. It can be used for the ES (Emergency Switch) input. Or, using it to be an Run-Time counter as the speed counter, it is easily to be initiated from the API of **PiPAL-COMBOS** library.
+The Digital Inputs are all isolated at NPN mode, so each one of them can be connected with the sensor which driven by PSU directly. The 1st channl is an interrupt input. It can be used for the ES (Emergency Switch) input. Or, using it to be an Run-Time counter as the speed counter, it is easily to be initiated from the API of **PiPAL-COMBOS** library.
 
-For the general usage in automatic controls and industry controls, the Output channels of **PiPAL-COMBOS** are designed to offer the Multi-function, the default is simple digital output. Use API (analog_write) to process the output as a PWM function. Use API (stepping_speed and stepping_pulse), it even can be a motor pulse control output. It's not like the simple PWM, the motor pulse control function will have the complete acceleration deceleration period for motor processing.
+For the general usage in automatic controls and industry controls, the Output channels of **PiPAL-COMBOS** are designed to offer the Multiple Functions, the default is simple digital output. Use API (analog_write) to process the output as a PWM function. Use API (stepping_speed and stepping_pulse), it even can be a motor pulse control output. It's not like the simple PWM, the motor pulse control function will have the complete acceleration deceleration period for motor processing.
 
-The Outputs are all open collector and NPN mode. The max voltage can be 50V. Users can connect the Relay directly with the PSU's power source. The channel 1, channel 3 and channel 4 are available to be set PWM mode, so it can directly drive LED. The default firmware of the controller on IO board is multi-tasking, it means when the output pin has driven the motor, the other IO channels are available being read and wrote concurrently.    
+The Outputs are all open collector and actived Low mode. The maximum voltage is 50V. User can connect the Relay directly with the PSU's power source. The channel 1, channel 3 and channel 4 are available to be set PWM mode, so it can directly drive LED. The default firmware of the controller on IO board is multi-tasking, it means when the output pin has driven the motor, the other IO channels are available being read and wrote concurrently.    
 
-Actually, the IO controller is Atmel Mega328, and the circuit hardware was designed to compatible with the Arduino UNO, so the user can use the Arduino IDE to make program by his own. Without any Raspberry Pi Module, the **PiPAL-COMBOS** can be worked alone as an Arduino UNO, and freely using the OpenPLC project to work as a PLC. Then when it collaborates with Raspberry Pi Module, the Mega328 can be programmed as an I2C slave to work with Raspberry Pi. 
+Actually, the IO controller is Atmel Mega328, and the hardware was designed to compatible with the Arduino UNO, so the user can use the Arduino IDE to make program by his own. Without any Raspberry Pi Module, the **PiPAL-COMBOS** can be worked alone as an Arduino UNO, and freely using the OpenPLC project to work as a PLC. Then when it collaborates with Raspberry Pi Module, the Mega328 can be programmed as an I2C slave to work with Raspberry Pi. 
 
 ### **Communication**
-For accepting the communication with the general industry devices, RS485 is the major on board serial port. But **PiPAL-COMBOS** also reserve the TX and RX pins at Extend IDC connector. It needs plug in a RS232 Extend Board to complete a standard UART communication, or using the easy way of USB2RS232 dongle to reach it. 
+For the acceptance of the most communication way with general industry devices, RS485 is the major on board serial interface. But **PiPAL-COMBOS** also reserves the TX and RX pins at Extend IDC connector. It needs plug in a RS232 Extend Board to complete a standard UART communication, or using the easy way of USB2RS232 dongle to reach it. 
 
-### **Ready for Quick Usage by Loading the specific image**
+### **Ready for Quick Usage by Loading the specific image to SD card**
 According to the purpose and necessity, user can install the different image on SD, then make **PiPAL-COMBOS** to be the different device for home automatic or industry control. The complete applications and drivers what we'd done such as IIoT Gateway, CNC Controller, Data Collector, AOI (Automatic Optical Inspection), Barcode Scanner, Motor Controller, PLC, Security/Surveillance system and so on. The user can download from here freely.
 
 For the IoT and IIoT Gateway, we just work done the software. It includes an embedded HMI web server to offer the dashboard for each IO pins, and using browser application on smart phone to view it and control it remotely. It also support MQTT, OPC UA, MOD Bus and IIoT Cloud connectors, communicate with most any brand of PLC or other equipment by RS232/RS485, and securely transmit data to wherever it is required.
@@ -96,6 +96,13 @@ Images of SD card for specified Raspberry Pi module
 7. I/O controller.
 8. 3 Axis CNC controllor (needs Extend Module)
 
+### **Demonstration Videos**
+
+1. IIoT Gateway
+
+2. AOI System
+
+3. Digital input, Analog input and Multi-Function output
 
 ###  **General Specifications**
 
