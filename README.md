@@ -52,7 +52,7 @@ The final assembly of **PiPAL-COMBOS** is enclosing the PCB into the aluminum sh
 
 ### **Interface and Connectors**
 **Front side** --
-The front side of **PiPAL-COMBOS** is the user's interface, there are USB, RJ485 and a IDC (Insulation-displacement connector). see pic-16
+The front side of **PiPAL-COMBOS** is the user's interface, there are Ethernet, USB and an IDC (Insulation-displacement connector). see pic-16
 
 <img src="./pics/IMG_0892s.jpg" /> pic16 : front side
 
