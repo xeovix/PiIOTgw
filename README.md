@@ -27,6 +27,7 @@ pic-6: The combined platform of Model A.
 
 The Model B supports Raspberry Pi Zero and Raspberry Pi Computing Module 4. see pic-7, pic-8 and pic-9. 
 Then combined as pic-10.
+
 <img src="./pics/IMG_0832.jpg" />pic-7 : Model B - Power and DIO board             
 <img src="./pics/IMG_0833.jpg" />pic-8: Model B -Bridge and Extend Interface
 <img src="./pics/IMG_0834.jpg" />pic-9: Raspberry Pi Zero         
@@ -42,7 +43,7 @@ The final assembly of **PiPAL-COMBOS** is enclosing the PCB into the aluminum sh
 <img src="./pics/IMG_0882.jpg" />pic-12 : Assemble all PCBs
 <img src="./pics/IMG_0881.jpg" />pic-13 : Insert to the case by the bottom PCB follow the track.
 <img src="./pics/IMG_0879.jpg" />pic-14 : To the end.
-<img src="./pics/IMG_0878.jpg" />pic-15 : Placing cover.
+<img src="./pics/IMG_0878.jpg" />pic-15 : Place cover.
 
 ### **Input and Output channels**
 The **PiPAL-COMBOS** has three 5-pin connectors for input and output. And they are 1 set of Analog Input, 1 set of Digital Input and 1 set of Output.
