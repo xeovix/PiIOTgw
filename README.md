@@ -10,7 +10,7 @@ Download and Program the specific image to SD Card, then make **PiPAL COMBOS** t
 
 **PiPAL-COMBOS** is a combination system, its hardware is combined by three major boards, the bottom board is called **'Power and DIO'** board, the middle board is called **'Bridge and Extend Interface'** board, then the upper board is Raspberry Pi module. (as pic-1 and pic-2)
 
-<im src="./pics/IMG_091819.jpg" /> pic-2
+<img src="./pics/IMG_091819.jpg" /> pic-2
 
 For supporting the different Raspberry Pi Module, **PiPAL-COMBOS** has two models.
 
