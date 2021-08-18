@@ -14,9 +14,10 @@ Download and Program the specific image to SD Card, then make **PiPAL COMBOS** t
 
 <img src="./pics/IMG_091819.jpg" /> pic-2
 
+### **Model A and Model B**
 For supporting the different Raspberry Pi Module, **PiPAL-COMBOS** has two models.
 
-The Model A supports Raspberry Pi 3+ and Raspberry Pi 4/4+. see pic-3, pic-4 and pic-5. Then combined as pic-6.
+The **Model A** supports Raspberry Pi 3+ and Raspberry Pi 4/4+. see pic-3, pic-4 and pic-5. Then combined as pic-6.
 <img src="./pics/IMG_0916.jpg" />
 pic-3 : Model  A - Power and DIO board
 <img src="./pics/IMG_0915.jpg" />
@@ -29,7 +30,7 @@ pic-6: The combined platform of Model A.
 
 
 
-The Model B supports Raspberry Pi Zero and Raspberry Pi Computing Module 4. see pic-7, pic-8 and pic-9. 
+The **Model B** supports Raspberry Pi Zero and Raspberry Pi Computing Module 4. see pic-7, pic-8 and pic-9. 
 Then combined as pic-10.
 
 <img src="./pics/IMG_0832.jpg" />pic-7 : Model B - Power and DIO board             
