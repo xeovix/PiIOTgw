@@ -123,9 +123,21 @@ Images of SD card for specified Raspberry Pi module
 
 ### **Extend Module**
 
-The Extend module is designed to support **PiPAL-COMBOS** when the local IO is insufficient.
+The Extend module is designed to support **PiPAL-COMBOS** when the local IO is insufficient. see pic-18
 
-Easilly connect the extend wire by the 10 pins IDC connector. The maximum length of extend wire is 10 meters, it should be enough for the general environment of home automatic and industry control. For a better communication, the twist and shielding wiring is recommended.
+<img src="./pics/IMG_0943.jpg" /> pic18 : Extend Module
 
+**Front side** --
+The front side of **Extend Module** is the upstream interface, there are Ethernet, DC Power an IDC (Insulation-displacement connector). see pic-19
 
+<img src="./pics/IMG_0944.jpg" /> pic19 : front side of Extend Module
+
+**Reverse side** --
+The reverse side of **Extend Module** is the device's interface, there are Digital Input, Analog Input, Multi-Function Output. see pic-20
+
+<img src="./pics/IMG_0946.jpg" /> pic20 : reverse side of Extend Module
+
+Easilly connect the extend wire by the 10 pins IDC connector (see pic-21). The maximum length of extend wire is 10 meters, it should be enough for the general environment of home automatic and industry control. For a better communication, the twist and shielding wiring is recommended.
+
+<img src="./pics/IMG_0949.jpg" /> pic21 : connection of PiPAL-COMBOS and Extend Module
 
