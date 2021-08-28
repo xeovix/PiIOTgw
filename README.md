@@ -91,14 +91,16 @@ For the IoT and IIoT Gateway, we just work done the software. It includes an emb
 
 When the **PiPAL-COMBOS** running as an IoT/IIoT Gateway, using a PC or a smart Phone, startup the browser then enter the **PiPAL-COMBOS**'s IP. Clicking or touching the indicators from browser, it is easy to control the **PiPAL-COMBOS** remotely. See the pic-18 and pic-19. For the system integrator, using the MQTT or OPC UA protocal to get the status or datas are also easily.
   
-<img src="./pics/IMG_GW001.jpg" /> 
-pic18 : Screen grab from PC
+<img src="./pics/IMG_GW001.jpg" /> pic18 : Screen grab from PC
   
   
-<img src="./pics/IMG_GW002.jpg" /> 
-pic19 : display on the smart phone and PC.
-
-
+  
+  
+<img src="./pics/IMG_GW002.jpg" /> pic19 : display on the smart phone and PC.
+  
+  
+  
+  
   
   
 **Implement 2:**
