@@ -107,6 +107,9 @@ When the **PiPAL-COMBOS** running as an IoT/IIoT Gateway, using a PC or a smart 
   
 Install the AOI image to SD card, the **PiPAL-COMBOS** can be worked as a stand-alone Vision Inspecting System, programmable controller or a slave control module which connected by a host PC to manipulate to. Beyond the on-board I/O and RS485, it is also available to direct controlled by PLC.
 
+The Demo of AOI can be found from this link on YouTube
+https://youtu.be/vk9MMUmq2bM
+
 Images of SD card for specified Raspberry Pi module
 
 1. Vision system - Image Pattern Searching AOI system. (only support Model B with CM4 piggyback and needs register on line for vision library )
