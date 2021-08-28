@@ -83,7 +83,7 @@ For the acceptance of the most communication way with general industry devices, 
 ### **Ready for Quick Usage by Loading the specific image to SD card**
 According to the purpose and necessity, user can install the different image on SD, then make **PiPAL-COMBOS** to be the different device for home automatic or industry control. The complete applications and drivers what we'd done such as IIoT Gateway, CNC Controller, Data Collector, AOI (Automatic Optical Inspection), Barcode Scanner, Motor Controller, PLC, Security/Surveillance system and so on. The user can download from here freely.
 
-Example 1:
+###*Implement 1:*
 For the IoT and IIoT Gateway, we just work done the software. It includes an embedded HMI web server to offer the dashboard for each IO pins, and using browser application on smart phone to view it and control it remotely. It also support MQTT, OPC UA, MOD Bus and IIoT Cloud connectors, communicate with most any brand of PLC or other equipment by RS232/RS485, and securely transmit data to wherever it is required.
 
 When the **PiPAL-COMBOS** running as an IoT/IIoT Gateway, using a PC or a smart Phone, startup the browser then enter the **PiPAL-COMBOS**'s IP. Clicking or touching the indicators from browser, it is easy to control the **PiPAL-COMBOS** remotely. See the pic-18 and pic-19. For the system integrator, using the MQTT or OPC UA protocal to get the status or datas are also easily.
@@ -92,7 +92,7 @@ When the **PiPAL-COMBOS** running as an IoT/IIoT Gateway, using a PC or a smart 
 
 <img src="./pics/IMG_GW002.jpg" /> pic19 : display on the smart phone and PC.
 
-Example 2:
+###*Implement 2:*
 Install the AOI image to SD card, the **PiPAL-COMBOS** can be worked as a stand-alone Vision Inspecting System, programmable controller or a slave control module which connected by a host PC to manipulate to. Beyond the on-board I/O and RS485, it is also available to direct controlled by PLC.
 
 Images of SD card for specified Raspberry Pi module
