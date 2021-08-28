@@ -83,9 +83,16 @@ For the acceptance of the most communication way with general industry devices, 
 ### **Ready for Quick Usage by Loading the specific image to SD card**
 According to the purpose and necessity, user can install the different image on SD, then make **PiPAL-COMBOS** to be the different device for home automatic or industry control. The complete applications and drivers what we'd done such as IIoT Gateway, CNC Controller, Data Collector, AOI (Automatic Optical Inspection), Barcode Scanner, Motor Controller, PLC, Security/Surveillance system and so on. The user can download from here freely.
 
+Example 1:
 For the IoT and IIoT Gateway, we just work done the software. It includes an embedded HMI web server to offer the dashboard for each IO pins, and using browser application on smart phone to view it and control it remotely. It also support MQTT, OPC UA, MOD Bus and IIoT Cloud connectors, communicate with most any brand of PLC or other equipment by RS232/RS485, and securely transmit data to wherever it is required.
 
+When the **PiPAL-COMBOS** running as an IoT/IIoT Gateway, using a PC or a smart Phone, startup the browser then enter the **PiPAL-COMBOS**'s IP. Clicking or touching the indicators from browser, it is easy to control the **PiPAL-COMBOS** remotely. See the pic-18 and pic-19. For the system integrator, using the MQTT or OPC UA protocal to get the status or datas are also easily.
 
+<img src="./pics/IMG_GW001.jpg" /> pic18 : Screen grab from PC
+
+<img src="./pics/IMG_GW002.jpg" /> pic18 : display on the smart phone and PC.
+
+Example 2:
 Install the AOI image to SD card, the **PiPAL-COMBOS** can be worked as a stand-alone Vision Inspecting System, programmable controller or a slave control module which connected by a host PC to manipulate to. Beyond the on-board I/O and RS485, it is also available to direct controlled by PLC.
 
 Images of SD card for specified Raspberry Pi module
@@ -123,21 +130,21 @@ Images of SD card for specified Raspberry Pi module
 
 ### **Extend Module**
 
-The Extend module is designed to support **PiPAL-COMBOS** when the local IO is insufficient. see pic-18
+The Extend module is designed to support **PiPAL-COMBOS** when the local IO is insufficient. see pic-20
 
-<img src="./pics/IMG_0943.jpg" /> pic18 : Extend Module
+<img src="./pics/IMG_0943.jpg" /> pic20 : Extend Module
 
 **Front side** --
-The front side of **Extend Module** is the upstream interface, there are Ethernet, DC Power an IDC (Insulation-displacement connector). see pic-19
+The front side of **Extend Module** is the upstream interface, there are Ethernet, DC Power an IDC (Insulation-displacement connector). see pic-21
 
-<img src="./pics/IMG_0944.jpg" /> pic19 : front side of Extend Module
+<img src="./pics/IMG_0944.jpg" /> pic21 : front side of Extend Module
 
 **Reverse side** --
-The reverse side of **Extend Module** is the device's interface, there are Digital Input, Analog Input, Multi-Function Output. see pic-20
+The reverse side of **Extend Module** is the device's interface, there are Digital Input, Analog Input, Multi-Function Output. see pic-22
 
-<img src="./pics/IMG_0946.jpg" /> pic20 : reverse side of Extend Module
+<img src="./pics/IMG_0946.jpg" /> pic22 : reverse side of Extend Module
 
-Easilly connect the extend wire by the 10 pins IDC connector (see pic-21). The maximum length of extend wire is 10 meters, it should be enough for the general environment of home automatic and industry control. For a better communication, the twist and shielding wiring is recommended.
+Easilly connect the extend wire by the 10 pins IDC connector (see pic-23). The maximum length of extend wire is 10 meters, it should be enough for the general environment of home automatic and industry control. For a better communication, the twist and shielding wiring is recommended.
 
-<img src="./pics/IMG_0949.jpg" /> pic21 : connection of PiPAL-COMBOS and Extend Module
+<img src="./pics/IMG_0949.jpg" /> pic23 : connection of PiPAL-COMBOS and Extend Module
 
