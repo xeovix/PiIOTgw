@@ -94,6 +94,8 @@ When the **PiPAL-COMBOS** running as an IoT/IIoT Gateway, using a PC or a smart 
 <img src="./pics/IMG_GW001.jpg" /> 
 pic18 : Screen grab from PC
 
+
+
 <img src="./pics/IMG_GW002.jpg" /> 
 pic19 : display on the smart phone and PC.
 
