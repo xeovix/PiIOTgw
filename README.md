@@ -90,7 +90,7 @@ When the **PiPAL-COMBOS** running as an IoT/IIoT Gateway, using a PC or a smart 
 
 <img src="./pics/IMG_GW001.jpg" /> pic18 : Screen grab from PC
 
-<img src="./pics/IMG_GW002.jpg" /> pic18 : display on the smart phone and PC.
+<img src="./pics/IMG_GW002.jpg" /> pic19 : display on the smart phone and PC.
 
 Example 2:
 Install the AOI image to SD card, the **PiPAL-COMBOS** can be worked as a stand-alone Vision Inspecting System, programmable controller or a slave control module which connected by a host PC to manipulate to. Beyond the on-board I/O and RS485, it is also available to direct controlled by PLC.
