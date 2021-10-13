@@ -119,7 +119,6 @@ Images of SD card for specified Raspberry Pi module
 5. Data collector.
 6. Motor controller.
 7. I/O controller.
-8. 3 Axis CNC controllor (needs Extend Module)
 
 ### **Demonstration Videos**
 
